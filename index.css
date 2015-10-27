@@ -11,6 +11,7 @@
 	border-width: 2px 2px 50px 2px;
 	border-radius: 100%;
 	position: relative;
+	margin: 0 auto;
 }
 
 #yin-yang:before {
