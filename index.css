@@ -64,13 +64,10 @@ h1{
 	padding:20px 0 0 0 ;
 	font-size:30px;
 }
-table {
+table, th, td {
 	text-align:center;
 	font-size: 20px;
 	margin: 0 auto;
-	border: 1px solid black;
-}
-col {
 	border: 1px solid black;
 }
 a{ 
