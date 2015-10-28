@@ -45,7 +45,7 @@ header{
    text-align: center;
     background: url("sun rise.jpg");
     background-size: cover;
-    background-position:10px 50px;
+    background-position:center;
     color: white;
 	font-size:25px;
     }
