@@ -67,11 +67,11 @@ h1{
 table {
 	text-align:center;
 	font-size: 20px;
+	margin: 0 auto;
+	border: solid black;
 }
 a{ 
 	color: white;
 }
-.table{
-	margin: 0 auto;
-}
+
 
