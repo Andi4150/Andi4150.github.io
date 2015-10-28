@@ -74,8 +74,8 @@ a{
 	color: white;
 }
 img{
-	height: 50px; 
-    	width: 50px; 
+	height: auto; 
+    	width: auto; 
     	max-width: 300px; 
     	max-height: 300px;
     	margin: 0 auto;
