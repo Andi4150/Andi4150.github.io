@@ -47,6 +47,7 @@ header{
     background-size: cover;
     color: white;
 	font-size:25px;
+	background-position:center;
 }
 ul {
   padding: 10px;
@@ -64,6 +65,7 @@ p{
 h1{
 	padding:20px 0 0 0 ;
 	font-size:30px;
+	color:black;
 }
 table, th, td {
 	text-align:center;
