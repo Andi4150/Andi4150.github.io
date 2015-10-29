@@ -73,7 +73,9 @@ table, th, td {
 	font-size: 20px;
 	margin: 0 auto;
 	border: 1px solid black;
-	background: orange;
+}
+.table{
+	background:orange;
 }
 a{ 
 	color: white;
